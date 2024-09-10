@@ -7,6 +7,7 @@ https://github.com/flipped-aurora/gin-vue-admin
 ## tech stack
 
 - backend: go
+    - use go-fiber for http server
 - frontend: nextjs (build static)
 - database: postgres
     - use gorm for orm but don't auto migrate
